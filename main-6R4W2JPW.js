@@ -70720,12 +70720,12 @@ var OO = (() => {
           {
             img: "assets/images/svg-icons/social-icons/telegram.svg",
             alt: "Telegram",
-            link: "https://t.me/ZaddyCoinTG",
+            link: "https://t.me/EthZaddyCoin",
           },
           {
             img: "assets/images/svg-icons/social-icons/twitter.svg",
             alt: "Twitter",
-            link: "https://x.com/ZaddyCoinX",
+            link: "https://x.com/EthZaddyCoin",
           },
           {
             img: "assets/images/svg-icons/social-icons/linktree.svg",
@@ -70737,12 +70737,12 @@ var OO = (() => {
           {
             img: "assets/images/svg-icons/social-icons/telegram_box.svg",
             alt: "Telegram",
-            link: "https://t.me/ZaddyCoinTG",
+            link: "https://t.me/EthZaddyCoin",
           },
           {
             img: "assets/images/svg-icons/social-icons/twitter_box.svg",
             alt: "Twitter",
-            link: "https://x.com/ZaddyCoinX",
+            link: "https://x.com/EthZaddyCoin",
           },
           {
             img: "assets/images/svg-icons/social-icons/linktree_box.svg",
@@ -71235,12 +71235,12 @@ var LO = (() => {
           {
             img: "assets/images/svg-icons/social-icons/telegram_box.svg",
             alt: "Telegram",
-            link: "https://t.me/ZaddyCoinTG",
+            link: "https://t.me/EthZaddyCoin",
           },
           {
             img: "assets/images/svg-icons/social-icons/twitter_box.svg",
             alt: "Twitter",
-            link: "https://x.com/ZaddyCoinX",
+            link: "https://x.com/EthZaddyCoin",
           },
           {
             img: "assets/images/svg-icons/social-icons/linktree_box.svg",
