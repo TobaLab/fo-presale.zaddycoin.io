@@ -69793,7 +69793,7 @@ var kO = (() => {
           [1, "col-12", "col-lg-5", "order-1", "order-lg-2"],
           [
             "src",
-            "/assets/images/webp/tokenomics.webp",
+            "/assets/images/webp/tokenomics.png",
             "alt",
             "tokenomics chart",
             1,
