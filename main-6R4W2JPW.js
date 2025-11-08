@@ -70061,7 +70061,7 @@ var EO = (() => {
           ["class", "box", 4, "ngFor", "ngForOf"],
           [
             "href",
-            "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x981293A7928638939d126207f7acA94E2f164806",
+            "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xTBA",
             "target",
             "_blank",
             1,
@@ -70730,7 +70730,7 @@ var OO = (() => {
           {
             img: "assets/images/svg-icons/social-icons/linktree.svg",
             alt: "Twitter",
-            link: "https://dexscreener.com/ethereum/0x981293A7928638939d126207f7acA94E2f164806",
+            link: "https://dexscreener.com/ethereum/0xTBA",
           },
         ]),
         (this.socialmob = [
@@ -70747,7 +70747,7 @@ var OO = (() => {
           {
             img: "assets/images/svg-icons/social-icons/linktree_box.svg",
             alt: "Linktree",
-            link: "https://dexscreener.com/ethereum/0x981293A7928638939d126207f7acA94E2f164806",
+            link: "https://dexscreener.com/ethereum/0xTBA",
           },
         ]),
         this.subscriptions.push(
@@ -70914,7 +70914,7 @@ var OO = (() => {
           [1, "d-flex", "align-items-stretch", "gap-3"],
           [
             "href",
-            "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x981293A7928638939d126207f7acA94E2f164806",
+            "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xTBA",
             "target",
             "_blank",
             "title",
@@ -71042,7 +71042,7 @@ var OO = (() => {
           ],
           [
             "href",
-            "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x981293A7928638939d126207f7acA94E2f164806",
+            "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xTBA",
             "target",
             "_blank",
             1,
@@ -71245,7 +71245,7 @@ var LO = (() => {
           {
             img: "assets/images/svg-icons/social-icons/linktree_box.svg",
             alt: "Linktree",
-            link: "https://dexscreener.com/ethereum/0x981293A7928638939d126207f7acA94E2f164806",
+            link: "https://dexscreener.com/ethereum/0xTBA",
           },
         ]),
         this.subscriptions.push(
