@@ -70061,7 +70061,7 @@ var EO = (() => {
           ["class", "box", 4, "ngFor", "ngForOf"],
           [
             "href",
-            "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x1aeab410d9e6b7dfd3ec84d9009deb16954de9ee",
+            "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xTBA",
             "target",
             "_blank",
             1,
@@ -70720,34 +70720,34 @@ var OO = (() => {
           {
             img: "assets/images/svg-icons/social-icons/telegram.svg",
             alt: "Telegram",
-            link: "https://t.me/ZaddyEthCoin",
+            link: "https://t.me/zaddycoinclub",
           },
           {
             img: "assets/images/svg-icons/social-icons/twitter.svg",
             alt: "Twitter",
-            link: "https://x.com/ZaddyEthCoin",
+            link: "https://x.com/zaddycoinclub",
           },
           {
             img: "assets/images/svg-icons/social-icons/linktree.svg",
             alt: "Twitter",
-            link: "https://dexscreener.com/ethereum/0x1aeab410d9e6b7dfd3ec84d9009deb16954de9ee",
+            link: "https://dexscreener.com/ethereum/0xTBA",
           },
         ]),
         (this.socialmob = [
           {
             img: "assets/images/svg-icons/social-icons/telegram_box.svg",
             alt: "Telegram",
-            link: "https://t.me/ZaddyEthCoin",
+            link: "https://t.me/zaddycoinclub",
           },
           {
             img: "assets/images/svg-icons/social-icons/twitter_box.svg",
             alt: "Twitter",
-            link: "https://x.com/ZaddyEthCoin",
+            link: "https://x.com/zaddycoinclub",
           },
           {
             img: "assets/images/svg-icons/social-icons/linktree_box.svg",
             alt: "Linktree",
-            link: "https://dexscreener.com/ethereum/0x1aeab410d9e6b7dfd3ec84d9009deb16954de9ee",
+            link: "https://dexscreener.com/ethereum/0xTBA",
           },
         ]),
         this.subscriptions.push(
@@ -70914,7 +70914,7 @@ var OO = (() => {
           [1, "d-flex", "align-items-stretch", "gap-3"],
           [
             "href",
-            "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x1aeab410d9e6b7dfd3ec84d9009deb16954de9ee",
+            "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xTBA",
             "target",
             "_blank",
             "title",
@@ -71042,7 +71042,7 @@ var OO = (() => {
           ],
           [
             "href",
-            "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x1aeab410d9e6b7dfd3ec84d9009deb16954de9ee",
+            "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xTBA",
             "target",
             "_blank",
             1,
@@ -71235,17 +71235,17 @@ var LO = (() => {
           {
             img: "assets/images/svg-icons/social-icons/telegram_box.svg",
             alt: "Telegram",
-            link: "https://t.me/ZaddyEthCoin",
+            link: "https://t.me/zaddycoinclub",
           },
           {
             img: "assets/images/svg-icons/social-icons/twitter_box.svg",
             alt: "Twitter",
-            link: "https://x.com/ZaddyEthCoin",
+            link: "https://x.com/zaddycoinclub",
           },
           {
             img: "assets/images/svg-icons/social-icons/linktree_box.svg",
             alt: "Linktree",
-            link: "https://dexscreener.com/ethereum/0x1aeab410d9e6b7dfd3ec84d9009deb16954de9ee",
+            link: "https://dexscreener.com/ethereum/0xTBA",
           },
         ]),
         this.subscriptions.push(
